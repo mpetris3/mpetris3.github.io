@@ -15,8 +15,8 @@
       institution: Central Lille Institut, Centre Inria de l'Université de Lille
       year: 2019-2023
       description:
-        - Algorithms based on the branch-and-price paradigm for problems in transportation and healthcare
-        - Under the supervision of 
+        - Branch-price-and-cut algorithms for integrated optimisation problems in transportation and healthcare
+        - Under the supervision of <a href="https://pro.univ-lille.fr/frederic-semet">Frédéric Semet</a>
         - title: Description 3.
           contents:
             - Sub-description 1.
