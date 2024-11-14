@@ -1,25 +1,75 @@
-
-@article{cohenFutureMemoriesAre2023,
-  title = {Future Memories Are Not Needed for Large Classes of {{POMDPs}}},
-  author = {Cohen, Victor and Parmentier, Axel},
-  year = {2023},
-  month = mar,
-  journal = {Operations Research Letters},
-  abbr= {Article},
-  arxiv = {2205.02580},
-  doi={https://doi.org/10.1016/j.orl.2023.02.011},
-  code={https://github.com/Victor2175/POMDP_SMFpolicies},
-  abstract = {Optimal policies for partially observed Markov decision processes (POMDPs) are history-dependent: Decisions are made based on the entire history of observations. Memoryless policies, which take decisions based on the last observation only, are generally considered useless in the literature because we can construct POMDP instances for which optimal memoryless policies are arbitrarily worse than history-dependent ones. Our purpose is to challenge this belief. We show that optimal memoryless policies can be computed efficiently using mixed integer linear programming (MILP), and perform reasonably well on a wide range of instances from the literature. When strengthened with valid inequalities, the linear relaxation of this MILP provides high quality upper-bounds on the value of an optimal history dependent policy. Furthermore, when used with a finite horizon POMDP problem with memoryless policies as rolling optimization problem, a model predictive control approach leads to an efficient history-dependent policy, which we call the short memory in the future (SMF) policy. Basically, the SMF policy leverages these memoryless policies to build an approximation of the Bellman value function. Numerical experiments show the efficiency of our approach on benchmark instances from the literature.}
+@article{tollo2019integrating,
+  title={Integrating ship movement scheduling and tug assignment within a canal harbor},
+  author={Tollo, Giacomo di and Pesenti, Raffaele and Petris, Matteo},
+  journal={Advances in Optimization and Decision Science for Society, Services and Enterprises: ODS, Genoa, Italy, September 4-7, 2019},
+  pages={13--22},
+  year={2019},
+  publisher={Springer}
 }
 
-@article{cohenIntegerProgrammingWeakly2020,
-  title = {Integer Programming for Weakly Coupled Stochastic Dynamic Programs with Partial Information},
-  author = {Cohen, Victor and Parmentier, Axel},
-  year = {2020},
-  month = dec,
-  abbr = {Technical Report},
-  arxiv = {2012.00645},
-  primaryclass = {math},
-  abstract = {This paper introduces algorithms for problems where a decision maker has to control a system composed of several components and has access to only partial information on the state of each component. Such problems are difficult because of the partial observations, and because of the curse of dimensionality that appears when the number of components increases. Partially observable Markov decision processes (POMDPs) have been introduced to deal with the first challenge, while weakly coupled stochastic dynamic programs address the second. Drawing from these two branches of the literature, we introduce the notion of weakly coupled POMDPs. The objective is to find a policy maximizing the total expected reward over a finite horizon. Our algorithms rely on two ingredients. The first, which can be used independently, is a mixed integer linear formulation for generic POMDPs that computes an optimal memoryless policy. The formulation is strengthened with valid cuts based on a probabilistic interpretation of the dependence between random variables, and its linear relaxation provide a practically tight upper bound on the value of an optimal history-dependent policies. The second is a collection of mathematical programming formulations and algorithms which provide tractable policies and upper bounds for weakly coupled POMDPs. Lagrangian relaxations, fluid approximations, and almost sure constraints relaxations enable to break the curse of dimensionality. We test our generic POMDPs formulations on benchmark instance forms the literature, and our weakly coupled POMDP algorithms on a maintenance problem. Numerical experiments show the efficiency of our approach.},
-  keywords = {Mathematics - Optimization and Control},
+@article{tollo2023sat,
+  title={A SAT encoding for the portfolio selection problem},
+  author={Tollo, Giacomo di and Lardeux, Fr{\'e}d{\'e}ric and Pesenti, Raffaele and Petris, Matteo},
+  journal={Soft Computing},
+  pages={1--9},
+  year={2023},
+  publisher={Springer}
+}
+
+@article{cattaruzza2024exact,
+  title={Exact and Heuristic Solution Techniques for Mixed-Integer Quantile Minimization Problems},
+  author={Cattaruzza, Diego and Labb{\'e}, Martine and Petris, Matteo and Roland, Marius and Schmidt, Martin},
+  journal={INFORMS Journal on Computing},
+  year={2024},
+  publisher={INFORMS}
+}
+
+@article{petris2022dynamic,
+  title={Dynamic Decomposition of the Real-Time Railway Traffic Management Problem},
+  author={Petris, Matteo and Pellegrini, Paola and Pesenti, Raffaele},
+  journal={Transportation Research Procedia},
+  volume={62},
+  pages={806--814},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{petris2023heuristic,
+  title={A heuristic with a performance guarantee for the Commodity constrained Split Delivery Vehicle Routing Problem},
+  author={Petris, Matteo and Archetti, Claudia and Cattaruzza, Diego and Ogier, Maxime and Semet, Fr{\'e}d{\'e}ric},
+  journal={Networks},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+
+@article{petris2024branch,
+  title={A branch-price-and-cut algorithm for the Multi-Commodity two-echelon Distribution Problem},
+  author={Petris, Matteo and Archetti, Claudia and Cattaruzza, Diego and Ogier, Maxime and Semet, Fr{\'e}d{\'e}ric},
+  journal={EURO Journal on Transportation and Logistics},
+  volume={13},
+  pages={100139},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{petris2022models,
+  title={Models and algorithms for an integrated vessel scheduling and tug assignment problem within a canal harbor},
+  author={Petris, Matteo and Pellegrini, Paola and Pesenti, Raffaele},
+  journal={European Journal of Operational Research},
+  volume={300},
+  number={3},
+  pages={1120--1135},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{rosati2022multi,
+  title={Multi-neighborhood simulated annealing for the sports timetabling competition ITC2021},
+  author={Rosati, Roberto Maria and Petris, Matteo and Di Gaspero, Luca and Schaerf, Andrea},
+  journal={Journal of Scheduling},
+  volume={25},
+  number={3},
+  pages={301--319},
+  year={2022},
+  publisher={Springer}
 }
