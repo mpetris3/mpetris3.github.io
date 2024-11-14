@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Matteo Petris
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th March 1992
     - name: Languages
-      value: English, German
+      value: English, Italian, French, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Central Lille Institut, Centre Inria de l'Université de Lille
+      year: 2019-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Algorithms based on the branch-and-price paradigm for problems in transportation and healthcare
+        - Under the supervision of <a href="https://pro.univ-lille.fr/frederic-semet">Frédéric Semet</a>
         - title: Description 3.
           contents:
             - Sub-description 1.
