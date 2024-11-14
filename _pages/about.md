@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cermics-lab.enpc.fr/'>CERMICS</a>, <a href='[https://cermics-lab.enpc.fr/](https://ecoledesponts.fr/)'>École nationale des ponts et chaussées</a>.
+subtitle: <a href='https://cermics-lab.enpc.fr/'>CERMICS</a>, <a href='https://ecoledesponts.fr/'>École nationale des ponts et chaussées</a>.
 
 profile:
   align: right
