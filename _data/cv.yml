@@ -12,41 +12,44 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Central Lille Institut, Centre Inria de l'Université de Lille
+      institution: <a href="https://centralelille.fr/">Central Lille Institut</a>, <a href="https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille">Centre Inria de l'Université de Lille</a>
       year: 2019-2023
       description:
         - Branch-price-and-cut algorithms for integrated optimisation problems in transportation and healthcare
-        - Under the supervision of <a href="https://pro.univ-lille.fr/frederic-semet">Frédéric Semet</a>
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Under the supervision of <a href="https://pro.univ-lille.fr/frederic-semet">Frédéric Semet</a>, <a href="https://www.unibs.it/it/ugov/person/3039">Claudia Archetti</a>, 
+          <a href="https://orcid.org/0000-0002-1814-2547">Diego Cattaruzza</a>, <a href="https://pro.univ-lille.fr/maxime-ogier">Maxime Ogier</a> 
+    - title: Master degree in  Mathematics
+      institution: <a href="https://www.uniud.it/it">Università degli Studi di Udine</a> 
+      year: 2016-2018
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis title Models and algorithms for the Train Marshalling Problem under the supervision of <a href="https://www.researchgate.net/profile/Franca-Rinaldi">Franca Rinaldi</a> 
+    - title: Bachelor degree in  Mathematics
+      institution: <a href="https://www.uniud.it/it">Università degli Studi di Udine</a> 
+      year: 2011-2016
+      description:
+        - Thesis title Scheduling team meetings in a rehabilitation centre under the supervision of <a href="https://www.researchgate.net/profile/Franca-Rinaldi">Franca Rinaldi</a> 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral researcher
+      institution: <a href="https://cermics-lab.enpc.fr">CERMICS</a>, <a href="https://ecoledesponts.fr/">École nationale des ponts et chaussées</a>
+      year: 2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Under the supervision of <a href="https://cermics.enpc.fr/~meuniefr/">Frédéric Meunier</a> and <a href="https://axelparmentier.github.io/">Axel Parmentier</a>
+        - Funded by AirFrance
+    - title: Postdoctoral researcher
+      institution: <a href="https://isds-department.essec.edu/">IDO Department</a>, <a href="https://www.essec.edu/fr/">ESSEC Business School</a>
+      year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Under the supervision of <a href="https://www.unibs.it/it/ugov/person/3039">Claudia Archetti</a> and <a href="https://ivanaljubic.github.io/">Ivana Ljubić</a>
+        - Partially funded by Google, Paris 
+    - title: Research fellow
+      institution: <a href="https://www.unive.it/pag/13526">Università Ca' Foscari Venezia</a>
+      year: 2018-2019
+      description:
+        - Under the supervision of <a href="https://www.unive.it/data/people/5592502">Raffaele Pesenti</a> 
+        - Funded by PRIN 2015 - Smart PORt Terminals - SPORT   
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
