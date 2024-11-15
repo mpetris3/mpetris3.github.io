@@ -4,8 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='https://cermics-lab.enpc.fr/'>CERMICS</a>, <a href='https://ecoledesponts.fr/'>École nationale des ponts et chaussées</a>.
 
-I am a postdoctoral researcher in the <a href='https://cermics-lab.enpc.fr/organisation/optimization/'>OPTIM</a> team at the CERMICS lab under the supervision of  <a href='https://cermics.enpc.fr/~meuniefr/'>Frédéric Meunier</a>, <a href='https://axelparmentier.github.io/'>Axel Parmentier</a>.
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,4 +21,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
+I am a postdoctoral researcher in the <a href='https://cermics-lab.enpc.fr/organisation/optimization/'>OPTIM</a> team at the CERMICS lab under the supervision of  <a href='https://cermics.enpc.fr/~meuniefr/'>Frédéric Meunier</a>, <a href='https://axelparmentier.github.io/'>Axel Parmentier</a>.
